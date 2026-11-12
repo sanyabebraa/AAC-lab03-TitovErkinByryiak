@@ -1,0 +1,14 @@
+C:\Users\Student_09\Documents\AAC-Lab02TitovErkinBuryak\obj\Debug\net10.0\AAC-Lab02TitovErkinBuryak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student_09\Documents\AAC-Lab02TitovErkinBuryak\obj\Debug\net10.0\AAC-Lab02TitovErkinBuryak.AssemblyInfoInputs.cache
+C:\Users\Student_09\Documents\AAC-Lab02TitovErkinBuryak\obj\Debug\net10.0\AAC-Lab02TitovErkinBuryak.AssemblyInfo.cs
+C:\Users\Student_09\Documents\AAC-Lab02TitovErkinBuryak\obj\Debug\net10.0\AAC-Lab02TitovErkinBuryak.csproj.CoreCompileInputs.cache
+C:\Users\Student_09\Documents\AAC-Lab02TitovErkinBuryak\bin\Debug\net10.0\AAC-Lab02TitovErkinBuryak.exe
+C:\Users\Student_09\Documents\AAC-Lab02TitovErkinBuryak\bin\Debug\net10.0\AAC-Lab02TitovErkinBuryak.deps.json
+C:\Users\Student_09\Documents\AAC-Lab02TitovErkinBuryak\bin\Debug\net10.0\AAC-Lab02TitovErkinBuryak.runtimeconfig.json
+C:\Users\Student_09\Documents\AAC-Lab02TitovErkinBuryak\bin\Debug\net10.0\AAC-Lab02TitovErkinBuryak.dll
+C:\Users\Student_09\Documents\AAC-Lab02TitovErkinBuryak\bin\Debug\net10.0\AAC-Lab02TitovErkinBuryak.pdb
+C:\Users\Student_09\Documents\AAC-Lab02TitovErkinBuryak\obj\Debug\net10.0\AAC-Lab02TitovErkinBuryak.dll
+C:\Users\Student_09\Documents\AAC-Lab02TitovErkinBuryak\obj\Debug\net10.0\refint\AAC-Lab02TitovErkinBuryak.dll
+C:\Users\Student_09\Documents\AAC-Lab02TitovErkinBuryak\obj\Debug\net10.0\AAC-Lab02TitovErkinBuryak.pdb
+C:\Users\Student_09\Documents\AAC-Lab02TitovErkinBuryak\obj\Debug\net10.0\AAC-Lab02TitovErkinBuryak.genruntimeconfig.cache
+C:\Users\Student_09\Documents\AAC-Lab02TitovErkinBuryak\obj\Debug\net10.0\ref\AAC-Lab02TitovErkinBuryak.dll
